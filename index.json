@@ -1,22 +1,67 @@
 [
     {
-        "id": 1,
-        "name": "Sunset Beach",
-        "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/1.png"
+        "theme": "Normal",
+        "urls": [
+            {
+                "id": 1,
+                "name": "Sunset Beach",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/1.png"
+            },
+            {
+                "id": 2,
+                "name": "Italy",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/2.png"
+            },
+            {
+                "id": 3,
+                "name": "Sushi",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/3.png"
+            },
+            {
+                "id": 4,
+                "name": "Mango",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/4.png"
+            }
+        ]
     },
     {
-        "id": 2,
-        "name": "Italy",
-        "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/2.png"
-    },
-    {
-        "id": 3,
-        "name": "Sushi",
-        "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/3.png"
-    },
-    {
-        "id": 4,
-        "name": "Mango",
-        "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/4.png"
+        "theme": "Raycast",
+        "urls": [
+            {
+                "id": 1,
+                "name": "Cube",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/raycast/1.png"
+            },
+            {
+                "id": 2,
+                "name": "Cube Mono",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/raycast/1.png"
+            },
+            {
+                "id": 3,
+                "name": "Blob",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/raycast/3.png"
+            },
+            {
+                "id": 4,
+                "name": "Blossom",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/raycast/4.png"
+            },
+            {
+                "id": 5,
+                "name": "Blushing Fire",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/raycast/5.png"
+            },
+            {
+                "id": 6,
+                "name": "Moonrise",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/raycast/6.png"
+            },
+            {
+                "id": 7,
+                "name": "Ray of Lights",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/raycast/7.png"
+            }
+        ]
     }
 ]
