@@ -1,42 +1,22 @@
 [
     {
+        "id": 1,
         "name": "Sunset Beach",
-        "url": ""
+        "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/1.png"
     },
     {
+        "id": 2,
         "name": "Italy",
-        "url": ""
+        "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/2.png"
     },
     {
+        "id": 3,
         "name": "Sushi",
-        "url": ""
+        "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/3.png"
     },
     {
+        "id": 4,
         "name": "Mango",
-        "url": ""
-    },
-    {
-        "name": "Mount Everest",
-        "url": ""
-    },
-    {
-        "name": "Canada",
-        "url": ""
-    },
-    {
-        "name": "Pizza",
-        "url": ""
-    },
-    {
-        "name": "Banana",
-        "url": ""
-    },
-    {
-        "name": "Great Wall of China",
-        "url": ""
-    },
-    {
-        "name": "Australia",
-        "url": ""
+        "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/4.png"
     }
 ]
