@@ -63,5 +63,15 @@
                 "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/raycast/7.png"
             }
         ]
+    },
+    {
+        "theme": "Nature",
+        "urls": [
+            {
+                "id": 1,
+                "name": "Pink Sky",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/nature/1.png"
+            }
+        ]
     }
 ]
