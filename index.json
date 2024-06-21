@@ -69,8 +69,13 @@
         "urls": [
             {
                 "id": 1,
-                "name": "Pink Sky",
+                "name": "Pink Sky- By Rasmus Hjulskov",
                 "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/nature/1.png"
+            },
+            {
+                "id": 2,
+                "name": "Colorful Sky - By Rasmus Hjulskov",
+                "url": "https://raw.githubusercontent.com/mcnaveen/backgrounds/main/images/nature/2.png"
             }
         ]
     }
